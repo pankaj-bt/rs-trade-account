@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "rs3-dev-pankaj": {
+      "hosting": {
+        "rs3-trade-account": [
+          "rs3-dev-pankaj"
+        ]
+      }
+    }
+  }
+}
